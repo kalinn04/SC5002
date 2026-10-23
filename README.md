@@ -44,4 +44,4 @@ California Housing dataset (scikit-learn). 1,000 rows were sampled with `random_
 ## Use of Generative AI
 I use Gemini as a learning partner to explain concepts (admissible heuristics, feature scaling, regularisations).
 
-Full AI prompt logs are included in our PDF report.
+Full AI prompt logs are included in the PDF report.

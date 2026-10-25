@@ -38,7 +38,7 @@ California Housing dataset (scikit-learn). 1,000 rows were sampled with `random_
 
 ## Key Findings
 - Linear Regression and Ridge (alpha 0.1–10) performed almost identically. With 800 training rows and only 8 features, the model was not overfitting, so regularisation had little to fix.
-- At alpha = 1000, R² dropped sharply to 0.3604. The penalty shrinks the weights so much that the model **underfits**.
+- At alpha = 1000, R² dropped sharply to 0.3574. The penalty shrinks the weights so much that the model **underfits**.
 - 5-fold cross-validation gives a more reliable score than a single train/test split because it averages performance over five different test folds.
 
 ## Use of Generative AI

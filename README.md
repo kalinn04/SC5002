@@ -31,10 +31,10 @@ California Housing dataset (scikit-learn). 1,000 rows were sampled with `random_
 ## Results
 | Model | Alpha | Mean 5-Fold CV R² |
 |---|---|---|
-| Linear Regression | – | 0.6317 |
-| Ridge Regression | 0.1 | 0.6317 |
-| Ridge Regression | 10.0 | 0.6312 |
-| Ridge Regression | 1000.0 | 0.3604 |
+| Linear Regression | – | 0.6457 |
+| Ridge Regression | 0.1 | 0.6457 |
+| Ridge Regression | 10.0 | 0.6443 |
+| Ridge Regression | 1000.0 | 0.3574 |
 
 ## Key Findings
 - Linear Regression and Ridge (alpha 0.1–10) performed almost identically. With 800 training rows and only 8 features, the model was not overfitting, so regularisation had little to fix.

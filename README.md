@@ -1,5 +1,5 @@
 # SC5002
-Lab Assignment 1
+Lab Assignment 1 - Member (1): Yap Kang Lin
 # SC5002 Lab Assignment – Search Algorithms & Regularised Regression
 
 **Course:** SC5002 Artificial Intelligence Fundamentals & Applications (NTU)
